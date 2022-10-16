@@ -24,8 +24,8 @@ public class Base {
 
 	public static WebDriver driver;
 	public static void init() {
-		String url= propApp.getProperty("url");
-		String browser= propFrame.getProperty("browser");
+		String url= System.getProperty("url");
+		String browser= System.getProperty("browser");
 		driver = getBrowserDriver(browser);
 		driver.get(url);
 		driver.manage().window().maximize();	

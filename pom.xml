@@ -113,6 +113,10 @@
 				<version>3.0.0-M7</version>
 				<configuration>
 					<testFailureIgnore>true</testFailureIgnore>
+					<systemPropertyVariables>
+					<exBrowser>${browser}</exBrowser>
+					<url>${url}</url>
+					</systemPropertyVariables>
 				</configuration>
 			</plugin>
 			<plugin>

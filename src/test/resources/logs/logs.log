@@ -1,1 +1,21 @@
 
+13:48:45.088 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+13:48:45.090 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+13:50:55.863 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+13:50:55.865 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+14:03:37.615 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+14:03:37.617 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+14:06:00.775 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+14:06:00.777 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+14:18:56.900 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+14:18:56.903 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+15:19:24.902 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+15:19:24.910 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+16:45:32.766 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+16:45:32.773 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+17:24:05.512 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+17:24:05.518 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+17:34:01.338 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+17:34:01.345 [main] ERROR pages.Example - es un error---------------------------------------------------------------
+17:43:56.550 [main] INFO  pages.Example - Estoy en el metodo clickSingIn---------------------------------------------
+17:43:56.558 [main] ERROR pages.Example - es un error---------------------------------------------------------------
